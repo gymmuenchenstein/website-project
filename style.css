@@ -1,0 +1,34 @@
+/***********************************************************************************/
+/* Define the styles for the static elements (body, header, menu, page and footer) */
+/***********************************************************************************/
+
+body, p {
+     /* Remove the standard margin/padding of the html body */
+    margin: 0;
+    padding: 0;
+}
+
+.header {
+    /* If you want to hide the header, use this code below: */ 
+    /* display: none; */
+}
+
+.main {
+    /* Use this code if you like to have the menu on the left side */
+    /* display: flex; */
+}
+
+.main .menu {
+}
+
+.main .page {
+}
+
+.footer {
+}
+
+/*************************************/
+/* Add CSS styles for sub pages here */
+/*************************************/
+
+
